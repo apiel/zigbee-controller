@@ -3,6 +3,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "mock-require": "^3.0.3",
     "zigbee2mqtt": "^1.14.1"
   }
 }
